@@ -14,7 +14,7 @@ public class Pet {
 	private int rowId;
 	private String petType;
 	private String petBreed;
-	private int petAge;
+	private int petAge;//
 	
 
 	public int getRowId() {

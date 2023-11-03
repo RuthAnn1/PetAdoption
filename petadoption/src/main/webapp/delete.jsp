@@ -7,8 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-<form action = "deletePet" method="post">
-	enter pet breed you want to delete: <input type = "text" name = "name"
+<form action = "deleteActor" method="post">
+	enter The movie to delete: <input type = "text" name = "name"
 	size = "25"><input type = "submit" value = "Delete"/>
 
 </form>
